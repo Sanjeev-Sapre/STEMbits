@@ -27,7 +27,7 @@ I suggest students in 7th standard to 11th standard is the best age for this cou
 **Timing and Fees**
 
  - Timing - Sat/Sun 6:00 PM ( 1 to 1.5 hrs.) 
- - Number of sessions - 24
+ - Number of sessions - 24 (12 Weeks)
  - Fees - 0 INR  *(for group members and my personal invite)*
 
 **Note**
