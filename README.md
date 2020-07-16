@@ -22,7 +22,7 @@ I suggest students in 7th standard to 11th standard is the best age for this cou
 
  - Basics of Python 
  - Drawing and Graphics 
- - Game development
+ - Little Game development too!
 
 **Timing and Fees**
 
