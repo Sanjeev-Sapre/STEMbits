@@ -1,5 +1,5 @@
 **Details about the Python for Teenagers Course.**
-hello
+
 > This is not  a commercial website and so don’t expect colors and
 > images etc.
 
