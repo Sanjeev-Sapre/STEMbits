@@ -15,8 +15,11 @@
 8.  Email ID (the one used for phone is fine)
 
 **Age**
+
 I suggest students in 7th standard to 11th standard is the best age for this course.
+
 **What they will learn?**
+
  - Basics of Python 
  - Drawing and Graphics 
  - Game development
