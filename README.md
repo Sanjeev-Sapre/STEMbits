@@ -11,8 +11,8 @@
 4. Lot of enthusiasm for learning…😊
 5. Students should not join because parents want them to.
 6. Headset (Mobile headset should be fine.)
-7. WhatsApp Number (one from the parent is fine) this is for group messaging.
-8.  Email ID (the one used for phone is fine)
+7. WhatsApp Number (one from the parent is fine as it is required for group messaging)
+8. Email ID (the one used for phone is fine)
 
 **Age**
 
